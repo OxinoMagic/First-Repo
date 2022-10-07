@@ -1,0 +1,6 @@
+C:\Users\Noam\RiderProjects\monPremierProjet\monPremierProjet\bin\Debug\monPremierProjet.exe
+C:\Users\Noam\RiderProjects\monPremierProjet\monPremierProjet\bin\Debug\monPremierProjet.pdb
+C:\Users\Noam\RiderProjects\monPremierProjet\monPremierProjet\obj\Debug\monPremierProjet.csproj.AssemblyReference.cache
+C:\Users\Noam\RiderProjects\monPremierProjet\monPremierProjet\obj\Debug\monPremierProjet.csproj.CoreCompileInputs.cache
+C:\Users\Noam\RiderProjects\monPremierProjet\monPremierProjet\obj\Debug\monPremierProjet.exe
+C:\Users\Noam\RiderProjects\monPremierProjet\monPremierProjet\obj\Debug\monPremierProjet.pdb
